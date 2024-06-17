@@ -10,7 +10,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![PyPI - Version](https://img.shields.io/pypi/v/cgi-printenv)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/cgi-printenv)
-![GitHub all releases](https://img.shields.io/github/downloads/Cappricio-Securities/cgi-printenv)
+![GitHub all releases](https://img.shields.io/github/downloads/Cappricio-Securities/cgi-printenv/total)
 <a href="https://github.com/Cappricio-Securities/CVE-2023-27524/releases/"><img src="https://img.shields.io/github/release/Cappricio-Securities/cgi-printenv"></a>![Profile_view](https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=0e75b6&style=flat)
 [![Follow Twitter](https://img.shields.io/twitter/follow/cappricio_sec?style=social)](https://twitter.com/cappricio_sec)
 <p align="center">
